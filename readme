@@ -1,2 +1,2 @@
-Readme~
-1
+This repository contains my Stock Prediction Model using Long Short Term Memory. 
+The model is integrated in dash app to do visualisations for predictions of next day and next month.
